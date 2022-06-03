@@ -1,5 +1,5 @@
 'Amaze Maze' is a game based on gyroscopic control of maze using mobile phone. 
-It is developed using mainly 'Arduino' and 'Gyroscope Sensor'.
+It is essentially developed using 'Arduino', 'bluetooth module' and 'Gyroscope Sensor'.
 For detailed explanation go through the ppt attached.
 
 
